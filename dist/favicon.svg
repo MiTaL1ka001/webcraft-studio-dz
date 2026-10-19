@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#E5E7EB" stroke-width="2"/>
+  <!-- W in Deep Navy -->
+  <path d="M8 18H14.8L18.6 35.8L22.8 18H28.4L32.6 35.8L36.4 18H43.2L36.2 46H29.8L25.6 29.2L21.4 46H15L8 18Z" fill="#0B1320"/>
+  <!-- C in Electric Blue -->
+  <path d="M51.5 26.5C50.4 24.3 48.3 23.1 45.6 23.1C41.5 23.1 38.8 26.4 38.8 32C38.8 37.6 41.5 40.9 45.6 40.9C48.3 40.9 50.4 39.7 51.5 37.5L56.8 40.2C54.7 44.3 50.8 46.6 45.5 46.6C37.8 46.6 32.4 41 32.4 32C32.4 23 37.8 17.4 45.5 17.4C50.2 17.4 54.1 19.4 56.3 23.1L51.5 26.5Z" fill="#007BFF"/>
+  <!-- Digital square pixels at top right of C -->
+  <rect x="52.5" y="15" width="4.5" height="4.5" rx="0.8" fill="#007BFF"/>
+  <rect x="58" y="12.5" width="3.2" height="3.2" rx="0.6" fill="#007BFF"/>
+</svg>
